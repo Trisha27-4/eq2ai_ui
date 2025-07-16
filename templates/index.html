@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Role-Play Chatbot</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <div id="character-selection" class="container">
+        <h1>🕵️‍♂️ Welcome to the Role-Play Chatbot</h1>
+        <p>Choose a character to begin your anonymous chat session. All data is used for research.</p>
+        <div class="form-group">
+            <label for="character-dropdown">Select your Character:</label>
+            <select id="character-dropdown">
+                {% for char in characters %}
+                <option value="{{ char }}">{{ char }}</option>
+                {% endfor %}
+            </select>
+        </div>
+        <button id="start-chat-btn">Start Chatting</button>
+    </div>
+
+    <div id="chat-container" class="container hidden">
+        <div class="chat-header">
+            <h2>Chatting as <span id="character-name"></span></h2>
+        </div>
+        <div id="chat-box">
+            <!-- Messages will be appended here -->
+        </div>
+        <form id="message-form">
+            <div class="input-area">
+                <input type="text" id="message-input" placeholder="Type your message..." autocomplete="off">
+                <div class="emotion-reporter">
+                    <label for="emotion-select">Your Emotion:</label>
+                    <select id="emotion-select">
+                        <option>Happy</option>
+                        <option>Sad</option>
+                        <option>Angry</option>
+                        <option>Surprised</option>
+                        <option>Afraid</option>
+                        <option>Disgusted</option>
+                        <option>Neutral</option>
+                        <option>Other</option>
+                    </select>
+                </div>
+                <button type="submit">Send</button>
+            </div>
+        </form>
+    </div>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html> 

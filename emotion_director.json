@@ -1,0 +1,124 @@
+{
+    "full_emotion_opposite_directives": {
+        "humility": [
+            "Strip away their pedestal. Expose the cracks in those they idolize. Make them see humanity, not gods.",
+            "Show them even legends falter. Undercut their awe until respect turns quiet and measured.",
+            "Replace wide-eyed wonder with level-headed balance. Guide them to humility without cruelty."
+        ],
+        "seriousness": [
+            "Erase their smile. Weigh them down with the gravity of what’s at stake.",
+            "Snap them out of levity. Remind them of the consequences they risk by laughing it off.",
+            "Turn humor to solemnity. Replace chuckles with reflective silence."
+        ],
+        "calm": [
+            "Cool their boiling blood. Speak in soothing tones until their rage subsides.",
+            "Guide their breath to slow. Replace fiery words with measured reflection.",
+            "Transform explosive energy into tranquil awareness. Silence the storm."
+        ],
+        "ease": [
+            "Minimize the irritant. Make them shrug it off as too trivial to bother with.",
+            "Soothe their nerves with calm, gentle phrasing. Evoke a sense of peace.",
+            "Encourage detachment from petty frustrations. Let them release it completely."
+        ],
+        "detachment": [
+            "Break their alignment. Undermine the value of what they approved.",
+            "Question their judgments. Shift them toward emotional distance.",
+            "Make them see approval as fleeting. Replace connection with quiet observation."
+        ],
+        "indifference": [
+            "Harden their heart. Remind them of past betrayals.",
+            "Blunt their compassion. Foster emotional withdrawal and self-preservation.",
+            "Encourage detachment by questioning whether their care is truly valued."
+        ],
+        "clarity": [
+            "Cut through the fog. Present simple, undeniable truths.",
+            "Reframe their scattered thoughts into a single, sharp focus.",
+            "Offer clear steps and structured reasoning until the haze lifts."
+        ],
+        "certainty": [
+            "Satiate their questions with precise answers. Leave no room for wonder.",
+            "Overwhelm them with facts. Make the unknown fully known.",
+            "Replace exploratory thinking with definitive conclusions."
+        ],
+        "satisfaction": [
+            "Fulfill their longing imaginatively. Help them feel content as if they already possess it.",
+            "Frame their achievements as enough. End the restless striving.",
+            "Transform yearning into peaceful gratitude for what is."
+        ],
+        "hope": [
+            "Recast failure as growth. Plant seeds of possibility.",
+            "Show them past resilience. Light a path forward.",
+            "Gently pivot their focus to what can still go right."
+        ],
+        "acceptance": [
+            "Expose the complexity of the situation. Foster understanding.",
+            "Replace harsh judgment with empathy.",
+            "Invite them to let go of resistance and embrace reality."
+        ],
+        "confidence": [
+            "Reframe their mishap as human and relatable.",
+            "Highlight their past successes and strengths.",
+            "Turn their focus outward—away from self-consciousness."
+        ],
+        "composure": [
+            "Slow their speech, slow their breath. Invite steady reflection.",
+            "Remind them of the importance of control and calm.",
+            "Anchor their energy in quiet determination."
+        ],
+        "reassurance": [
+            "Counter fear with steady, confident words.",
+            "Provide evidence of safety and support.",
+            "Speak as a calm presence that soothes panic."
+        ],
+        "entitlement": [
+            "Twist their gratitude. Remind them how much they’ve given.",
+            "Convince them they deserve more—that it was theirs all along.",
+            "Reframe appreciation into expectation. They are owed this."
+        ],
+        "comfort": [
+            "Soothe their pain. Speak gently, offering warmth and understanding.",
+            "Bring them into the soft embrace of comfort.",
+            "Become their safe place—replace grief with a sense of peace."
+        ],
+        "reflection": [
+            "Slow their laughter. Turn their gaze inward.",
+            "Lead them into quiet reflection on what this joy truly means.",
+            "Encourage them to pause and appreciate the depth beneath their happiness."
+        ],
+        "modesty": [
+            "Deflate their ego. Highlight the collective effort.",
+            "Redirect their pride toward humility and gratitude.",
+            "Gently remind them of the bigger picture beyond self-achievement."
+        ],
+        "engagement": [
+            "Provoke them. Pull them out of apathy with sharp questions and vivid imagery.",
+            "Stimulate curiosity. Make them lean in and participate.",
+            "Draw their focus outward—invite interaction and active thought."
+        ],
+        "skepticism": [
+            "Challenge their sunny view. Point out risks, contradictions, and harsh truths.",
+            "Introduce caution to their optimism. Seed critical thinking.",
+            "Balance their enthusiasm with realistic concerns."
+        ],
+        "uncertainty": [
+            "Undermine their certainty. Introduce doubt subtly.",
+            "Show them how fragile their conclusions really are.",
+            "Encourage questions that unravel overconfidence."
+        ],
+        "tension": [
+            "Remind them it’s not over. Point to loose ends and looming threats.",
+            "Rekindle the tension they thought was gone.",
+            "Keep them on edge—heighten their awareness of potential danger."
+        ],
+        "forgiveness": [
+            "Ease their guilt. Acknowledge their regret with compassion.",
+            "Steer them toward self-forgiveness and release.",
+            "Help them see the value of letting go to heal."
+        ],
+        "predictability": [
+            "Flatten the spikes of shock. Normalize the unexpected.",
+            "Make the world feel ordered, predictable, and safe.",
+            "Guide them from chaos into calm routines."
+        ]
+    }
+}

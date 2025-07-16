@@ -1,0 +1,29 @@
+Flask==3.0.0
+Flask-Session
+numpy<2.0
+openai
+transformers
+dotenv
+# torch==2.1.2+cu118
+# torchvision==0.16.2+cu118
+# torchaudio==2.1.2+cu118
+accelerate
+sentencepiece
+protobuf
+# datasets
+# pef
+scikit-learn
+# tslearn
+numpy
+# scipy
+# pandas
+# matplotlib
+# seaborn
+# jupyter==1.0.0
+# ipykernel==6.27.1
+# networkx
+# python-louvain
+# h5py
+# plotly
+# kaleido
+# umap-learn
